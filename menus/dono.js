@@ -9,8 +9,8 @@ const menudono = (prefix) => {
 │⎘⃯⃗➢ ${prefix}legendasaiu (oq qr)
 │⎘⃯⃗➢ ${prefix}legendasaiu2 (oq qr)
 │⎘⃯⃗➢ ${prefix}legendabv2 (oq qr)
-│⎘⃯⃗➢ ${prefix}fundobemvindo (link-img)
-│⎘⃯⃗➢ ${prefix}fundosaiu (link-img)
+│⎘⃯⃗➢ ${prefix}fundobemvindo (marcar-img)
+│⎘⃯⃗➢ ${prefix}fundosaiu (marcar-img)
 │⎘⃯⃗➢ ${prefix}serpremium
 │⎘⃯⃗➢ ${prefix}listabt
 │⎘⃯⃗➢ ${prefix}listagp
