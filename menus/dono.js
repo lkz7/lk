@@ -1,5 +1,9 @@
 const menudono = (prefix) => {
-	return `
+	
+	
+// NÃO APAGUE ESSE ${prefix}, não coloque nada ${dentro assim} ISSO SÃO DEFINIÇÕES QUE ESTÁ PUXANDO DO settings.json, da pasta dono, só pode altera a base de tudo, menos as definições, só se quiser apagar a definição completa. 	
+
+return `
 	
 	
 ╔┅═┅══ ᐃᐁᐃ ══┅═┅═᳀
@@ -7,7 +11,7 @@ const menudono = (prefix) => {
 ╚┅═┅══ ᐃᐁᐃ ══┅═┅═᳀
 ╔┅═┅══ ᐃᐁᐃ ══┅═┅═᳀
 ║	
-║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}fotomenu (url)
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}fotomenu (marcar)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}blockcmd  (cmd)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}unblockcmd (cmd)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}legendabv (oq qr)
@@ -52,6 +56,7 @@ const menudono = (prefix) => {
 
 }
 exports.menudono = menudono
+
 
 
 

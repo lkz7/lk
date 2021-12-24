@@ -1,41 +1,41 @@
 {
   "name": "ALEATORY-BOT",
-  "version": "4.0.0",
-  "description": "Inteligência artificial feita por Aleatory!",
+  "version": "4.2.0",
+  "description": "Inteligência artificial aprimorada por aleatory!",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index",
+    "start": "node index.js",
     "test": "echo \"Erro ao iniciar\" && exit 1"
   },
   "keywords": [
     "k"
   ],
-  "author": "Aleatory",
+  "author": "aleatory",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Josival321/aleatory.git"
+    "url": "git@github.com/NuevaGeneracionALB/aleatory.git"
   },
   "bugs": {
-    "url": "https://github.com/Josival321/aleatory/issues"
+    "url": "https://github.com/NuevaGeneracionALB/aleatory/issues"
   },
-  "homepage": "https://github.com/Josival321/aleatory/readme",
+  "homepage": "https://github.com/NuevaGeneracionALB/aleatory/readme",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.3",
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "@kagchi/kag-api": "^2.0.0",
     "file-type": "^16.5.3",
     "async": "^3.2.2",
     "awesome-phonenumber": "^2.64.0",
     "axios": "^0.24.0",
     "cfonts": "^2.10.0",
-    "xfarr-api": "^1.0.3",
     "cheerio": "^1.0.0-rc.10",
     "child_process": "^1.0.2",
     "crypto": "^1.0.1",
+    "chalk": "^4.1.2",
     "emoji-api": "^2.0.1",
     "emoji-regex": "^10.0.0",
     "emoji-unicode": "^2.0.1",
