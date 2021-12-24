@@ -25,7 +25,7 @@
   "homepage": "https://github.com/NuevaGeneracionALB/aleatory/readme",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "@adiwajshing/baileys": "^3.5.3",
     "@kagchi/kag-api": "^2.0.0",
     "file-type": "^16.5.3",
     "async": "^3.2.2",
