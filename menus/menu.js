@@ -82,7 +82,6 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Jogodavelha @marca
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Ttt (jogo da velha) 
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Cassino
-║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Quizanime 1 / 0
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Quizanimais 1 / 0
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Anagrama 1 / 0
 ║
