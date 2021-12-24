@@ -123,7 +123,7 @@ const banner2 = cfonts.render(('By: - ALEA - '), {
     lineHeight: 1
   });
  
-const banner3 = cfonts.render((`ALEA 4.1`), {
+const banner3 = cfonts.render((`ALEA 4.2`), {
 font: 'simple',
 color: 'system',
 align: 'center',
