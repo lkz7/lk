@@ -11,7 +11,8 @@ return `
 ╚┅═┅══ ᐃᐁᐃ ══┅═┅═᳀
 ╔┅═┅══ ᐃᐁᐃ ══┅═┅═᳀
 ║	
-║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}fotomenu (marcar)
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}fotomenu (marca-img)
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}gifmenu (marca-video/gif)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}blockcmd  (cmd)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}unblockcmd (cmd)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}legendabv (oq qr)
@@ -31,6 +32,8 @@ return `
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}delpalavra (palavrão)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}antipvon
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}antipvoff
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}VerificadoOn
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}VerificadoOff
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}ativo
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}ausente (fale-oq-faz)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}delpremium @(marca)

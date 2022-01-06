@@ -1,11 +1,11 @@
 {
+
 	"prefix": "!",
 
 	"NomeDoBot": "NOME-DO-BOT",
 
-	"NickDono": "NICK-DO-DONO",
+	"NickDono": "NOME-DO-DONO",
 
-	"numerodono": "NUMERO-DO-DONO-JUNTO",
+	"numerodono": "NUMERO-DO-DONO-JUNTO"
 
-	"dapuhykey": "0xFKM4Rx5B"
 }

@@ -15,8 +15,7 @@ return `
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}cep (numero)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}gerarcpf
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}premiumlist
-║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}rename 
-║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}metadinha
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}rename
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}lerfoto (marca)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}encurtalink (link)
 ║

@@ -12,7 +12,7 @@ const isFiltered = (sender) => !!usedCommandRecently.has(sender)
  */
 const addFilter = (sender) => {
     usedCommandRecently.add(sender)
-    setTimeout(() => usedCommandRecently.delete(sender), 5000) 
+    setTimeout(() => usedCommandRecently.delete(sender), 6000) 
 }
 
 module.exports = {

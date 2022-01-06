@@ -1,4 +1,4 @@
-const menu = (prefix, hora, datt, numerodn, NickDono) => {
+const menu = (prefix, horr, datt, numerodn, NickDono) => {
   
 // NÃO APAGUE ESSE ${NickDono} nem 
 //${numerodn} nem ${NomeDoBot} nem ${prefix} só se quiser apagar completo, não coloque nada ${dentro assim} ISSO SÃO DEFINIÇÕES QUE ESTÁ PUXANDO DO settings.json, da pasta dono, só pode altera a base de tudo, menos as definições, só se quiser apagar a definição completa.  
@@ -16,13 +16,15 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ╠┅═┅══ ᐃᐁᐃ ══┅═┅═᳀
 ║
 ║♡ۣۜۜ፝͜͜͡͡✿➤ Prefixo: ⟮•  ${prefix}  •⟯
-║♡ۣۜۜ፝͜͜͡͡✿➤ Hora : ${hora} 
+║♡ۣۜۜ፝͜͜͡͡✿➤ Hora : ${horr} 
 ║♡ۣۜۜ፝͜͜͡͡✿➤ Data : ${datt}
 ║
 ╠┅═┅══ ᐃᐁᐃ ══┅═┅═᳀
 ║       ⬕•IMPORTANTE•⬕
 ╠┅═┅══ ᐃᐁᐃ ══┅═┅═᳀
 ║
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}fotomenu (marca-img)
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}gifmenu (marca-video/gif)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}InfoBemvindo
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Infopalavrão
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Infolistanegra
@@ -53,7 +55,6 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ╠┅═┅══ ᐃᐁᐃ ══┅═┅═᳀
 ║ 
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Play (NOME)
-║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Play2 (NOME)ME)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Playmp4 (NOME)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Ytsearch (NOME)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Ytmp4 (LINK)
@@ -82,6 +83,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Jogodavelha @marca
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Ttt (jogo da velha) 
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Cassino
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Quizanime 1 / 0
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Quizanimais 1 / 0
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Anagrama 1 / 0
 ║
@@ -117,6 +119,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Wallpaperanime
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Tomp3 
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Frases
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Calcular (numero)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Fazernick (nick)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Bot
 ║
