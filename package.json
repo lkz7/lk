@@ -20,7 +20,7 @@
   "author": "aleatory",
   "repository": {
     "type": "git",
-    "url": "git@github.com/NuevaGeneracionALB/aleatory.git"
+    "url": "git+github.com/NuevaGeneracionALB/aleatory.git"
   },
   "bugs": {
     "url": "https://github.com/NuevaGeneracionALB/aleatory/issues"
