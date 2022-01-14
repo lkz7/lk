@@ -60,6 +60,10 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Ytmp4 (LINK)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Ytmp3 (LINK)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}tiktok (LINK)
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Instadw (LINK) 
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Twitter (LINK) 
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}FdroidSrc (NOME-APK) 
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Fdroid (LINK) 
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Imgpralink (MARCAR)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Videopralink (MARCAR-V)
 ║ 
@@ -67,6 +71,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ║        ⬕•INFORMAÇÕES•⬕
 ╠┅═┅══ ᐃᐁᐃ ══┅═┅═᳀
 ║
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}CovidBR
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Ping (velo)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Bateria
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Gitdobot
@@ -117,11 +122,13 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Simi (fale algo) 
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Perfil
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Wallpaperanime
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Wallpaper (Categoria)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Tomp3 
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Frases
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Calcular (numero)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Fazernick (nick)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Bot
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Tradutor pt (txt)
 ║
 ╚┅═┅══ ᐃᐁᐃ ══┅═┅═᳀
 

@@ -109,7 +109,7 @@ const close = (id, text) => {
 	spins.fail(id, {text: text})
 }
 
-const banner = cfonts.render(('ALEA 4.1'), {
+const banner = cfonts.render(('ALEA 4.2'), {
     font: 'block',
     align: 'center',
     colors: [`${cor1}`,`${cor3}`,`${cor4}`,`${cor2}`],
@@ -123,7 +123,7 @@ const banner2 = cfonts.render(('By: - ALEA - '), {
     lineHeight: 1
   });
  
-const banner3 = cfonts.render((`ALEA 4.1`), {
+const banner3 = cfonts.render((`ALEA 4.2`), {
 font: 'simple',
 color: 'system',
 align: 'center',

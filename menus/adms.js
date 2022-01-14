@@ -42,6 +42,8 @@ const adms = (prefix) => {
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}fotogp (Marca)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}descgp (TXT)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}nomegp (Nome)
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}criartabela (ESCREVA-ALGO)
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}tabelagp
 ║
 ╚┅═┅══ ᐃᐁᐃ ══┅═┅═᳀
 

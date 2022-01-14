@@ -24,6 +24,7 @@ const menulogos = (prefix) => {
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}escudo (txt)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}transformer (txt)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}narutologo (txt)
+║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}Comporn (txt/txt)   
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}lobometal (txt)   
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}glitch (txt-txt)
 ║♡ۣۜۜ፝͜͜͡͡✿➤ ${prefix}glitch2 (txt-txt)

@@ -477,9 +477,9 @@ addLevelingXp(tttset.player, randomEndTTTXP)
 const checkTTTIdEnd = getTTTId(tttset.player)
 if (checkTTTIdEnd === undefined) addTTTId(tttset.player)
 addTTTpoints(tttset.player, randomEndTTTXP)
-client.EnviarMensagem(tttset.local,`❌ O TEMPO DE JOGO EXPIROU ❌\n\n➣  PUNIÇÃO: ${randomEndTTTXP} XP 🔮`, text, {quoted: tttset.mentionPlayer})
+conn.sendMessage(tttset.local,`❌ O TEMPO DE JOGO EXPIROU ❌\n\n➣  PUNIÇÃO: ${randomEndTTTXP} XP 🔮`, text, {quoted: tttset.mentionPlayer})
 } else {
-client.EnviarMensagem(tttset.local,`❌ O TEMPO DE JOGO EXPIROU ❌`, text, {quoted: tttset.mentionPlayer})
+conn.sendMessage(tttset.local,`❌ O TEMPO DE JOGO EXPIROU ❌`, text, {quoted: tttset.mentionPlayer})
 }
 esp.a1 = "🔲"; esp.a2 = "🔲"; esp.a3 = "🔲"
 esp.b1 = "🔲"; esp.b2 = "🔲"; esp.b3 = "🔲"
